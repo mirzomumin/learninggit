@@ -1,1 +1,2 @@
-This is a first file in docs directory.
+This is the first file in docs directory.
+This is the second line of this file.
