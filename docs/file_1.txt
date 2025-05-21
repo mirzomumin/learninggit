@@ -1,1 +1,2 @@
 This text is from "feature/ui" branch
+This is a first file in docs directory.
